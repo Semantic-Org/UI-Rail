@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-rail",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 467b6c8105ee56c80af89cd8590ee71676a0ce68
   "title": "Semantic UI - Rail",
   "description": "Single component release of rail",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 467b6c8105ee56c80af89cd8590ee71676a0ce68
   "devDependencies": {}
 }
