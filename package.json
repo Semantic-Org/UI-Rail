@@ -1,0 +1,21 @@
+{
+  "name": "semantic-ui-rail",
+<<<<<<< HEAD
+  "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 4f39d9dbdda14d7eaddc84f81bbf9300c8c92e77
+  "title": "Semantic UI - Rail",
+  "description": "Single component release of rail",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semantic-Org/UI-Rail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "devDependencies": {}
+}
