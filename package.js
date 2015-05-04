@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-rail',
   summary : 'Semantic UI - Rail: Single component release',
-  version : '1.12.1',
+  version : '1.12.2',
   git     : 'git://github.com/Semantic-Org/UI-Rail.git',
 });
 
