@@ -1,3 +1,7 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Sticky** - Fixed edge case where using `offset` setting, sticky element would not internally scroll if the rail contents (without the offset setting) would fit on screen
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Rail** - Fixed incorrect width for `close rail` and `very close rail` caused by variable addition with mixed units `px` + `em` [#3835](https://github.com/Semantic-Org/Semantic-UI/issues/3835)
